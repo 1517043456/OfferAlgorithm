@@ -17,7 +17,7 @@ public class Offer_05_minNumberInRotateArray {
     }
     //第一种方法，线性查找法，直接按顺序查找,时间复杂度n(n),空间复杂度n（1）
     // 牛客网：运行时间：416ms
-    //占用内存：28820k
+    //占用内存：28820k；
     public static int minNumberInRotateArray(int [] array) {
         if (array.length == 0){
             return 0;
