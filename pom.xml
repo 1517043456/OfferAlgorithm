@@ -7,6 +7,13 @@
     <groupId>com.swpu.Bryce</groupId>
     <artifactId>OfferAlgorithm</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-math</artifactId>
+            <version>2.1</version>
+        </dependency>
+    </dependencies>
 
 
 </project>
